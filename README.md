@@ -4,6 +4,10 @@
 
 This presentation was created for a **Political Science Deep Learning Seminar**, summarizing concepts from Chapter 3 of the book *Neural Networks and Deep Learning* by Charu C. Aggarwal. The focus is on **supervised** and **unsupervised models**, specifically **multiclass classification** and **autoencoders**.
 
+## Access the Presentation
+
+The full presentation can be found [here](https://github.com/sahamidi2/machine-learning-with-shallow-neural-networks/blob/main/ch3-presentation.ipynb).
+
 ## Overview
 
 ### Sections
