@@ -22,8 +22,7 @@ The full presentation can be found [here](https://github.com/sahamidi2/machine-l
 
 ## Reference
 
-- *Neural Networks and Deep Learning: A Textbook (Second Edition)* by Charu C. Aggarwal, Springer, 2023&#8203;:contentReference[oaicite:0]{index=0}
-
+- *Neural Networks and Deep Learning: A Textbook (Second Edition)* by Charu C. Aggarwal, Springer, 2023
 ## Contact
 
 For more information or questions:
